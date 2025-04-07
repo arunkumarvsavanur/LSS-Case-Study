@@ -40,9 +40,9 @@ This project was carried out using the **DMAIC (Define, Measure, Analyze, Improv
 
 ## 👤 Author
 
-Presented by: **[Your Name]**  
+Presented by: **ARUNKUMAR V SAVANUR**  
 Lean Six Sigma Yellow Belt Project  
-[Date or Organization, if applicable]
+4/8/2025    --MF Treinamentos
 
 ## 📥 How to View
 
